@@ -4,6 +4,7 @@ import React from "react";
 import Hero from "./components/Hero";
 import Header from "./components/Header";
 import Appointment from "./components/Appointment";
+import Prices from "./components/Prices";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Header />
       <Hero />
       <Appointment />
+      <Prices />
       <div className="h-[2000px]"></div>
     </div>
   );

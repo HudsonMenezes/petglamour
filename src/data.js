@@ -62,7 +62,7 @@ export const bundleData = [
     image: <DogCateg1 />,
     name: "small",
     dogCategory: "1 - 9 kg",
-    serviços: [
+    services: [
       {
         name: "smart",
         price: 20,
@@ -99,7 +99,7 @@ export const bundleData = [
     name: "medium",
     image: <DogCateg2 />,
     dogCategory: "10 - 19 kg",
-    serviços: [
+    services: [
       {
         name: "smart",
         price: 80,
@@ -136,7 +136,7 @@ export const bundleData = [
     name: "big",
     image: <DogCateg3 />,
     dogCategory: "20 - 29 kg",
-    serviços: [
+    services: [
       {
         name: "smart",
         price: 140,
@@ -173,7 +173,7 @@ export const bundleData = [
     name: "super",
     image: <DogCateg4 />,
     dogCategory: "30 - 39 kg",
-    serviços: [
+    services: [
       {
         name: "smart",
         price: 200,
