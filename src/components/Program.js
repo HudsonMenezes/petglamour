@@ -14,7 +14,7 @@ const Program = () => {
           alt="Phone Icon"
         />
         <div className="lg:text-[23px] text-blue font-extrabold">
-          + 55 21 912345678
+          + 55 21 99999-9999
         </div>
       </div>
       {/* open hours */}

@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Appointment from "./components/Appointment";
 import Prices from "./components/Prices";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Appointment />
       <Prices />
       <Contact />
+      <Footer />
     </div>
   );
 };
